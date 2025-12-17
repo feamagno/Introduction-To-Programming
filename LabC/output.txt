@@ -1,0 +1,10 @@
+10
+10@lab.pt
+20
+20@lab.pt
+30
+30@lab.pt
+40
+40@lab.pt
+50
+50@lab.pt
