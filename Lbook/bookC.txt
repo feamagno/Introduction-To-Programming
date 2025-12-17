@@ -1,0 +1,2 @@
+Java is a highlevel classbased objectoriented programming language
+compiled Java code can run on all platforms that support Java
